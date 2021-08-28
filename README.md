@@ -34,7 +34,7 @@
 
 ## 目录
 
-**推荐移步 [WIKI](https://github.com/lintstar/About-Attack/wiki/0x00-%E9%A1%B9%E7%9B%AE%E7%AE%80%E4%BB%8B) 阅读**
+**推荐移步 [WIKI](https://github.com/lintstar/About-Attack/wiki) 阅读**
 
 > 声明：本手册仅供红队方向安全研究使用 禁止一切非法行为！
 
