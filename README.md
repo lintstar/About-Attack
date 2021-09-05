@@ -239,6 +239,24 @@ W13scan 是基于Python3的一款开源的Web漏洞发现工具,它支持主动�
 
 
 
+## Vulmap 🌟【Web】
+
+![GitHub top language](https://img.shields.io/github/languages/top/zhzyker/vulmap?color=blue&logo=Ionic&logoColor=white) ![GitHub stars](https://img.shields.io/github/stars/zhzyker/vulmap?color=success&logo=github) ![GitHub forks](https://img.shields.io/github/forks/zhzyker/vulmap?color=orange&logo=Furry%20Network&logoColor=white) ![GitHub last commit](https://img.shields.io/github/last-commit/zhzyker/vulmap?color=ff69b4&label=update&logo=git&logoColor=white)
+
+### Link
+
+https://github.com/zhzyker/vulmap
+
+### About
+
+Vulmap 是一款 web 漏洞扫描和验证工具, 可对 webapps 进行漏洞扫描, 并且具备漏洞验证功能
+
+**可以和 Dismap 进行联动**
+
+![https://github.com/zhzyker/vulmap/blob/main/images/vulmap-0.5-demo-gif.gif](image/vulmap-0.5-demo-gif.gif)
+
+
+
 ## Goby【主机】
 
 ![Golang](https://img.shields.io/badge/lauguage-go-blue?logo=Ionic&logoColor=white) ![GitHub stars](https://img.shields.io/github/stars/gobysec/Goby?color=success&logo=github) ![GitHub forks](https://img.shields.io/github/forks/gobysec/Goby?color=orange&logo=Furry%20Network&logoColor=white) ![GitHub last commit](https://img.shields.io/github/last-commit/gobysec/Goby?color=ff69b4&label=update&logo=git&logoColor=white)
@@ -342,6 +360,22 @@ https://github.com/wyzxxz/fastjson_rce_tool
 Fastjson命令执行自动化利用工具， remote code execute，JNDI服务利用工具 RMI/LDAP，LDAP反序列方式部分回显
 
 ![image-20210827164922271](image/image-20210827164922271.png)
+
+
+
+## ThinkphpGUI【Thinkphp】
+
+![Java](https://img.shields.io/badge/lauguage-java-blue?logo=Ionic&logoColor=white) ![GitHub stars](https://img.shields.io/github/stars/Lotus6/ThinkphpGUI?color=success&logo=github) ![GitHub forks](https://img.shields.io/github/forks/Lotus6/ThinkphpGUI?color=orange&logo=Furry%20Network&logoColor=white) ![GitHub last commit](https://img.shields.io/github/last-commit/Lotus6/ThinkphpGUI?color=ff69b4&label=update&logo=git&logoColor=white)
+
+### Link
+
+https://github.com/Lotus6/ThinkphpGUI
+
+### About
+
+Thinkphp(GUI)漏洞利用工具，支持各版本TP漏洞检测，命令执行，Getshell
+
+![image-20210902105234217](image/image-20210902105234217.png)
 
 
 
@@ -642,7 +676,7 @@ https://github.com/L-codes/Neo-reGeorg
 
 https://github.com/nccgroup/SocksOverRDP
 
-https://mp.weixin.qq.com/s/0f3KimWWxLaVRIIJoMiexA
+[利用 RDP 协议搭建 Socks5 代理隧道](https://whoamianony.top/2021/08/05/%E6%B8%97%E9%80%8F%E6%B5%8B%E8%AF%95/%E5%86%85%E7%BD%91%E6%B8%97%E9%80%8F%E6%B5%8B%E8%AF%95/%E5%86%85%E7%BD%91%E6%B8%97%E9%80%8F%E6%B5%8B%E8%AF%95%EF%BC%9A%E5%88%A9%E7%94%A8%20RDP%20%E5%8D%8F%E8%AE%AE%E6%90%AD%E5%BB%BA%20Socks5%20%E4%BB%A3%E7%90%86%E9%9A%A7%E9%81%93/)
 
 ### About
 
@@ -952,3 +986,21 @@ https://github.com/shunf4/proxychains-windows
 Proxychains.exe 是一个适用于 Win32(Windows) 和 Cygwin 平台的命令行强制代理工具（Proxifier）。它能够截获大多数 Win32 或 Cygwin 程序的 TCP 连接，强制它们通过一个或多个 SOCKS5 代理隧道。
 
 ![image-20210828103906017](image/image-20210828103906017.png)
+
+
+
+## CSAgent【Cobalt Strike】
+
+![GitHub top language](https://img.shields.io/github/languages/top/Twi1ight/CSAgent?color=blue&logo=Ionic&logoColor=white) ![GitHub stars](https://img.shields.io/github/stars/Twi1ight/CSAgent?color=success&logo=github) ![GitHub forks](https://img.shields.io/github/forks/Twi1ight/CSAgent?color=orange&logo=Furry%20Network&logoColor=white) ![GitHub last commit](https://img.shields.io/github/last-commit/Twi1ight/CSAgent?color=ff69b4&label=update&logo=git&logoColor=white)
+
+### Link
+
+https://github.com/Twi1ight/CSAgent
+
+### About
+
+CobaltStrike 4.x通用白嫖及**汉化加载器**
+
+对主界面、Console、命令帮助、生成payload、监听器、偏好设置等均进行了彻底的汉化
+
+![image-20210829121054788](image/image-20210829121054788.png)
