@@ -60,6 +60,62 @@ https://github.com/0x727/ShuiZe_0x727
 
 
 
+## Autoscanner【综合】
+
+![GitHub top language](https://img.shields.io/github/languages/top/zongdeiqianxing/Autoscanner?color=blue&logo=Ionic&logoColor=white) ![GitHub stars](https://img.shields.io/github/stars/zongdeiqianxing/Autoscanner?color=success&logo=github) ![GitHub forks](https://img.shields.io/github/forks/zongdeiqianxing/Autoscanner?color=orange&logo=Furry%20Network&logoColor=white) ![GitHub last commit](https://img.shields.io/github/last-commit/zongdeiqianxing/Autoscanner?color=ff69b4&label=update&logo=git&logoColor=white)
+
+### Link
+
+https://github.com/zongdeiqianxing/Autoscanner
+
+### About
+
+AutoScanner是一款自动化扫描器，其功能功能分为：
+
+- 遍历所有子域名、子域名主机所有端口及所有http端口服务
+- 对子域名主机信息进行相关检测，如cname解析判断是否是cdn、域名定位信息判断是否为云服务器、masscan扫端口、nmap等
+- 对http端口服务截图、使用集成的工具如crawlergo、xray、dirsearch等进行扫描；
+- 集成扫描报告
+
+![image-20211010231812122](image/image-20211010231812122.png)
+
+## Bufferfly【综合】
+
+![GitHub top language](https://img.shields.io/github/languages/top/dr0op/bufferfly?color=blue&logo=Ionic&logoColor=white) ![GitHub stars](https://img.shields.io/github/stars/dr0op/bufferfly?color=success&logo=github) ![GitHub forks](https://img.shields.io/github/forks/dr0op/bufferfly?color=orange&logo=Furry%20Network&logoColor=white) ![GitHub last commit](https://img.shields.io/github/last-commit/dr0op/bufferfly?color=ff69b4&label=update&logo=git&logoColor=white)
+
+### Link
+
+https://github.com/dr0op/bufferfly
+
+### About
+
+攻防资产处理小工具，对攻防前的信息搜集到的大批量资产/域名进行存活检测、获取标题头、语料提取、常见web端口检测、简单中间识别，去重等，便于筛选有价值资产。
+
+```
+    __          ________          ______     
+   / /_  __  __/ __/ __/__  _____/ __/ /_  __
+  / __ \/ / / / /_/ /_/ _ \/ ___/ /_/ / / / /
+ / /_/ / /_/ / __/ __/  __/ /  / __/ / /_/ / 
+/_.___/\__,_/_/ /_/  \___/_/  /_/ /_/\__, /  
+                                    /____/      v1.2.1 
+1.高速资产存活检测，获取标题
+2.常见Web端口访问测试/获取标题  lxml方式速度较快
+3.资产去重
+4.随机UA
+5.C段web端口探测/获取标题
+6.C段识别
+7.shiro识别
+8.简单中间件识别
+
+适用用于外网资产梳理
+
+TODO:
+1.在不发送更多请求的情况下模糊识别weblogic/jboss/jenkins/zabbix/activeMQ/solr/gitlab/spring等
+2.常见端口扫描(22/445/3389/3306/6379/1521等常见端口  与masscan、nmap结合)
+```
+
+
+
 ## ARL 资产侦察灯塔系统【综合】
 
 ![GitHub top language](https://img.shields.io/github/languages/top/TophantTechnology/ARL?color=blue&logo=Ionic&logoColor=white) ![GitHub stars](https://img.shields.io/github/stars/TophantTechnology/ARL?color=success&logo=github) ![GitHub forks](https://img.shields.io/github/forks/TophantTechnology/ARL?color=orange&logo=Furry%20Network&logoColor=white) ![GitHub last commit](https://img.shields.io/github/last-commit/TophantTechnology/ARL?color=ff69b4&label=update&logo=git&logoColor=white) 
@@ -431,6 +487,44 @@ MDUT 全称 Multiple Database Utilization Tools，是一款中文的数据库跨
 
 ![image-20210826151732701](image/image-20210826151732701.png)
 
+## Seeyon_exp【致远】
+
+![GitHub top language](https://img.shields.io/github/languages/top/Summer177/seeyon_exp?color=blue&logo=Ionic&logoColor=white) ![GitHub stars](https://img.shields.io/github/stars/Summer177/seeyon_exp?color=success&logo=github) ![GitHub forks](https://img.shields.io/github/forks/Summer177/seeyon_exp?color=orange&logo=Furry%20Network&logoColor=white) ![GitHub last commit](https://img.shields.io/github/last-commit/Summer177/seeyon_exp?color=ff69b4&label=update&logo=git&logoColor=white)
+
+### link
+
+https://github.com/Summer177/seeyon_exp
+
+### About
+
+致远OA漏洞检查与利用工具
+
+![image-20211011003754260](image/image-20211011003754260.png)
+
+
+
+## TDOA_RCE【通达】
+
+![GitHub top language](https://img.shields.io/github/languages/top/xinyu2428/TDOA_RCE?color=blue&logo=Ionic&logoColor=white) ![GitHub stars](https://img.shields.io/github/stars/xinyu2428/TDOA_RCE?color=success&logo=github) ![GitHub forks](https://img.shields.io/github/forks/xinyu2428/TDOA_RCE?color=orange&logo=Furry%20Network&logoColor=white) ![GitHub last commit](https://img.shields.io/github/last-commit/xinyu2428/TDOA_RCE?color=ff69b4&label=update&logo=git&logoColor=white)
+
+### Link
+
+https://github.com/xinyu2428/TDOA_RCE
+
+### About
+
+通达OA综合利用工具
+
+- 任意用户登录POC: 4个 + 1个
+- SQL注入POC: 2个
+- 后台文件上传POC: 3个
+- 本地文件包含POC: 2个
+- 前台文件上传POC(非WEB目录): 1个
+- 任意文件删除POC: 1个
+- SSRF+Redis利用链: 1个
+
+![image-20211011004338312](image/image-20211011004338312.png)
+
 
 
 # 0x04 主机管理
@@ -573,6 +667,28 @@ frp 是一个专注于内网穿透的高性能的反向代理应用，支持 TCP
 
 ![image-20210826155444682](image/image-20210826155444682.png)
 
+## Goproxy 🌟【综合】
+
+![GitHub top language](https://img.shields.io/github/languages/top/snail007/goproxy?color=blue&logo=Ionic&logoColor=white) ![GitHub stars](https://img.shields.io/github/stars/snail007/goproxy?color=success&logo=github) ![GitHub forks](https://img.shields.io/github/forks/snail007/goproxy?color=orange&logo=Furry%20Network&logoColor=white) ![GitHub last commit](https://img.shields.io/github/last-commit/snail007/goproxy?color=ff69b4&label=update&logo=git&logoColor=white)
+
+### Link
+
+https://github.com/snail007/goproxy
+
+https://snail007.host900.com/goproxy/manual/zh/#/
+
+### About
+
+Goproxy 是 golang 实现的高性能 http ,https ,websocket ,tcp ,socks5 代理服务器
+
+- 链式代理，程序本身可以作为一级代理，如果设置了上级代理那么可以作为二级代理，乃至N级代理。
+- 多协议支持，支持HTTP(S)，TCP，UDP，Websocket，SOCKS5代理。
+- [协议支持，HTTP(S)，SOCKS5代理支持KCP协议传输数据，降低延迟，提升浏览体验。
+
+![image-20211010230721528](image/image-20211010230721528.png)
+
+
+
 ## IOX【端口转发】
 
 ![GitHub top language](https://img.shields.io/github/languages/top/EddieIvan01/iox?color=blue&logo=Ionic&logoColor=white) ![GitHub stars](https://img.shields.io/github/stars/EddieIvan01/iox?color=success&logo=github) ![GitHub forks](https://img.shields.io/github/forks/EddieIvan01/iox?color=orange&logo=Furry%20Network&logoColor=white) ![GitHub last commit](https://img.shields.io/github/last-commit/EddieIvan01/iox?color=ff69b4&label=update&logo=git&logoColor=white)
@@ -703,6 +819,22 @@ https://github.com/L-codes/Neo-reGeorg
 
 
 
+## Pingtunnel【ICMP】
+
+![GitHub top language](https://img.shields.io/github/languages/top/esrrhs/pingtunnel?color=blue&logo=Ionic&logoColor=white) ![GitHub stars](https://img.shields.io/github/stars/esrrhs/pingtunnel?color=success&logo=github) ![GitHub forks](https://img.shields.io/github/forks/esrrhs/pingtunnel?color=orange&logo=Furry%20Network&logoColor=white) ![GitHub last commit](https://img.shields.io/github/last-commit/esrrhs/pingtunnel?color=ff69b4&label=update&logo=git&logoColor=white)
+
+### Link
+
+https://github.com/esrrhs/pingtunnel
+
+### About
+
+pingtunnel 是把 tcp/udp/sock5 流量伪装成 icmp 流量进行转发的工具
+
+![image-20211010231235128](image/image-20211010231235128.png)
+
+
+
 ## SocksOverRDP【RDP】
 
 ![GitHub top language](https://img.shields.io/github/languages/top/nccgroup/SocksOverRDP?color=blue&logo=Ionic&logoColor=white) ![GitHub stars](https://img.shields.io/github/stars/nccgroup/SocksOverRDP?color=success&logo=github) ![GitHub forks](https://img.shields.io/github/forks/nccgroup/SocksOverRDP?color=orange&logo=Furry%20Network&logoColor=white) ![GitHub last commit](https://img.shields.io/github/last-commit/nccgroup/SocksOverRDP?color=ff69b4&label=update&logo=git&logoColor=white)
@@ -769,6 +901,27 @@ https://github.com/lz520520/railgun
 Railgun为一款GUI界面的渗透工具，将部分人工经验转换为自动化，集成了渗透过程中常用到的一些功能，目前集成了端口扫描、端口爆破、web指纹扫描、漏洞扫描、漏洞利用以及编码转换功能，后续会持续更新。
 
 ![image-20210826160050619](image/image-20210826160050619.png)
+
+
+
+## ALLiN【综合】
+
+![GitHub top language](https://img.shields.io/github/languages/top/P1-Team/AlliN?color=blue&logo=Ionic&logoColor=white) ![GitHub stars](https://img.shields.io/github/stars/P1-Team/AlliN?color=success&logo=github) ![GitHub forks](https://img.shields.io/github/forks/P1-Team/AlliN?color=orange&logo=Furry%20Network&logoColor=white) ![GitHub last commit](https://img.shields.io/github/last-commit/P1-Team/AlliN?color=ff69b4&label=update&logo=git&logoColor=white)
+
+### Link
+
+https://github.com/P1-Team/AlliN
+
+### About
+
+一款轻便、小巧、快速、全面的扫描工具。多用于渗透前资产收集和渗透后内网横向渗透。
+
+- python2.7 - python3.x 无依赖支持。
+- 被动识别站点的一些架构信息，组件信息，框架信息，指纹数量1000+。
+- 被动识别访问站点是否是云上站点。
+- 对导入资产扫描支持相对比较完善，几乎支持任意格式资产。
+
+![image-20211011002402023](image/image-20211011002402023.png)
 
 
 
@@ -1024,6 +1177,25 @@ Proxychains.exe 是一个适用于 Win32(Windows) 和 Cygwin 平台的命令行�
 
 
 
+## Awesome-CobaltStrike【CS Wiki】
+
+![GitHub top language](https://img.shields.io/github/languages/top/zer0yu/Awesome-CobaltStrike?color=blue&logo=Ionic&logoColor=white) ![GitHub stars](https://img.shields.io/github/stars/zer0yu/Awesome-CobaltStrike?color=success&logo=github) ![GitHub forks](https://img.shields.io/github/forks/zer0yu/Awesome-CobaltStrike?color=orange&logo=Furry%20Network&logoColor=white) ![GitHub last commit](https://img.shields.io/github/last-commit/zer0yu/Awesome-CobaltStrike?color=ff69b4&label=update&logo=git&logoColor=white)
+
+### Link
+
+https://github.com/zer0yu/Awesome-CobaltStrike
+
+### About
+
+Cobaltstrike的相关资源汇总 / List of Awesome CobaltStrike Resources
+
+1. The first part is a collection of quality articles about CobaltStrike
+2. The third part is about the integration of the new features BOF resources
+3. This project is to solve the problem of not finding the right aggressor script or BOF when it is needed
+4. If there is quality content that is not covered in this repo, welcome to submit pr
+
+
+
 ## CSAgent【Cobalt Strike】
 
 ![GitHub top language](https://img.shields.io/github/languages/top/Twi1ight/CSAgent?color=blue&logo=Ionic&logoColor=white) ![GitHub stars](https://img.shields.io/github/stars/Twi1ight/CSAgent?color=success&logo=github) ![GitHub forks](https://img.shields.io/github/forks/Twi1ight/CSAgent?color=orange&logo=Furry%20Network&logoColor=white) ![GitHub last commit](https://img.shields.io/github/last-commit/Twi1ight/CSAgent?color=ff69b4&label=update&logo=git&logoColor=white)
@@ -1039,3 +1211,19 @@ CobaltStrike 4.x通用白嫖及**汉化加载器**
 对主界面、Console、命令帮助、生成payload、监听器、偏好设置等均进行了彻底的汉化
 
 ![image-20210829121054788](image/image-20210829121054788.png)
+
+
+
+## DNSlog-GO【Dnslog】
+
+![GitHub top language](https://img.shields.io/github/languages/top/lanyi1998/DNSlog-GO?color=blue&logo=Ionic&logoColor=white) ![GitHub stars](https://img.shields.io/github/stars/lanyi1998/DNSlog-GO?color=success&logo=github) ![GitHub forks](https://img.shields.io/github/forks/lanyi1998/DNSlog-GO?color=orange&logo=Furry%20Network&logoColor=white) ![GitHub last commit](https://img.shields.io/github/last-commit/lanyi1998/DNSlog-GO?color=ff69b4&label=update&logo=git&logoColor=white)
+
+### Link
+
+https://github.com/lanyi1998/DNSlog-GO
+
+### About
+
+DNSLog-GO 是一款golang编写的监控 DNS 解析记录的工具，自带WEB界面
+
+![image-20211010232603419](image/image-20211010232603419.png)
