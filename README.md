@@ -403,6 +403,40 @@ Struts2系列漏洞检查工具
 
 
 
+## JNDIExploit 🌟【JNDI】
+
+![GitHub top language](https://img.shields.io/github/languages/top/0x727/JNDIExploit?color=blue&logo=Ionic&logoColor=white) ![GitHub stars](https://img.shields.io/github/stars/0x727/JNDIExploit?color=success&logo=github) ![GitHub forks](https://img.shields.io/github/forks/0x727/JNDIExploit?color=orange&logo=Furry%20Network&logoColor=white) ![GitHub last commit](https://img.shields.io/github/last-commit/0x727/JNDIExploit?color=ff69b4&label=update&logo=git&logoColor=white)
+
+### Link
+
+https://github.com/0x727/JNDIExploit
+
+### About
+
+一款用于 `JNDI注入` 利用的工具，大量参考/引用了 `Rogue JNDI` 项目的代码，支持直接 `植入内存shell`，并集成了常见的 `bypass 高版本JDK` 的方式，适用于与自动化工具配合使用。
+
+![image-20211029165841118](image/image-20211029165841118.png)
+
+
+
+## SpringBootExploit 🌟【SpringBoot】
+
+![GitHub top language](https://img.shields.io/github/languages/top/0x727/SpringBootExploit?color=blue&logo=Ionic&logoColor=white) ![GitHub stars](https://img.shields.io/github/stars/0x727/SpringBootExploit?color=success&logo=github) ![GitHub forks](https://img.shields.io/github/forks/0x727/SpringBootExploit?color=orange&logo=Furry%20Network&logoColor=white) ![GitHub last commit](https://img.shields.io/github/last-commit/0x727/SpringBootExploit?color=ff69b4&label=update&logo=git&logoColor=white)
+
+### Link
+
+https://github.com/0x727/SpringBootExploit
+
+### About
+
+一款针对 SpringBootEnv 页面进行快速漏洞利用的工具
+
+**推荐配合上一个项目 JNDIExploit 使用**
+
+![image-20211029165504194](image/image-20211029165504194.png)
+
+
+
 ## Fastjson_rce_tool【Fastjson】
 
 ![Java](https://img.shields.io/badge/lauguage-java-blue?logo=Ionic&logoColor=white) ![GitHub stars](https://img.shields.io/github/stars/wyzxxz/fastjson_rce_tool?color=success&logo=github) ![GitHub forks](https://img.shields.io/github/forks/wyzxxz/fastjson_rce_tool?color=orange&logo=Furry%20Network&logoColor=white) ![GitHub last commit](https://img.shields.io/github/last-commit/wyzxxz/fastjson_rce_tool?color=ff69b4&label=update&logo=git&logoColor=white)
@@ -629,7 +663,25 @@ https://www.yuque.com/vipersec
 - Viper(炫彩蛇)目标是帮助红队工程师提高攻击效率,简化操作,降低技术门槛.
 - Viper(炫彩蛇)支持在浏览器中运行原生msfconsole,且支持多人协作.
 
-![image-20210826115023421](file:///Users/lintstar/Files/Program/AttackTools/image/image-20210826115023421.png?lastModify=1630144184)
+![image-20210826115023421](image/image-20210826115023421.png?lastModify=1630144184)
+
+
+
+## PUPY 🌟【C&C】
+
+![GitHub top language](https://img.shields.io/github/languages/top/n1nj4sec/pupy?color=blue&logo=Ionic&logoColor=white) ![GitHub stars](https://img.shields.io/github/stars/n1nj4sec/pupy?color=success&logo=github) ![GitHub forks](https://img.shields.io/github/forks/n1nj4sec/pupy?color=orange&logo=Furry%20Network&logoColor=white) ![GitHub last commit](https://img.shields.io/github/last-commit/n1nj4sec/pupy?color=ff69b4&label=update&logo=git&logoColor=white)
+
+### Link
+
+https://github.com/n1nj4sec/pupy
+
+[Pupy利用分析-Windows平台下的功能](https://3gstudent.github.io/Pupy%E5%88%A9%E7%94%A8%E5%88%86%E6%9E%90-Windows%E5%B9%B3%E5%8F%B0%E4%B8%8B%E7%9A%84%E5%8A%9F%E8%83%BD)
+
+### About
+
+Pupy是一个用 Python 编写、开源的跨平台（Windows、Linux、OSX、Android）远程管理和后期开发工具
+
+![image-20211029170838658](image/image-20211029170838658.png)
 
 
 
@@ -819,6 +871,26 @@ https://github.com/L-codes/Neo-reGeorg
 
 
 
+## ABPTTS【Webshell】
+
+![GitHub top language](https://img.shields.io/github/languages/top/nccgroup/ABPTTS?color=blue&logo=Ionic&logoColor=white) ![GitHub stars](https://img.shields.io/github/stars/nccgroup/ABPTTS?color=success&logo=github) ![GitHub forks](https://img.shields.io/github/forks/nccgroup/ABPTTS?color=orange&logo=Furry%20Network&logoColor=white) ![GitHub last commit](https://img.shields.io/github/last-commit/nccgroup/ABPTTS?color=ff69b4&label=update&logo=git&logoColor=white)
+
+### Link
+
+https://github.com/nccgroup/ABPTTS.git
+
+[内网渗透--突破安全策略上线CS](https://xz.aliyun.com/t/10410)
+
+### About
+
+用于web应用服务器的HTTP/HTTPS上的TCP隧道
+
+**在某些特定场景下 ABPTTS 有奇效**
+
+![image-20211029112254352](image/image-20211029112254352.png)
+
+
+
 ## Pingtunnel【ICMP】
 
 ![GitHub top language](https://img.shields.io/github/languages/top/esrrhs/pingtunnel?color=blue&logo=Ionic&logoColor=white) ![GitHub stars](https://img.shields.io/github/stars/esrrhs/pingtunnel?color=success&logo=github) ![GitHub forks](https://img.shields.io/github/forks/esrrhs/pingtunnel?color=orange&logo=Furry%20Network&logoColor=white) ![GitHub last commit](https://img.shields.io/github/last-commit/esrrhs/pingtunnel?color=ff69b4&label=update&logo=git&logoColor=white)
@@ -961,7 +1033,7 @@ Kscan是一款轻量级的资产发现工具，可针对IP/IP段或资产列表�
 
 
 
-# 0x07 密码抓取
+# 0x07 凭证获取
 
 ## Mimikatz 🌟【猕猴桃】
 
@@ -1024,6 +1096,38 @@ https://github.com/moonD4rk/HackBrowserData
 一款可全平台运行的浏览器数据导出解密工具
 
 ![image-20210828210648288](image/image-20210828210648288.png)
+
+
+
+## 360SafeBrowsergetpass【浏览器】
+
+![GitHub top language](https://img.shields.io/github/languages/top/hayasec/360SafeBrowsergetpass?color=blue&logo=Ionic&logoColor=white) ![GitHub stars](https://img.shields.io/github/stars/hayasec/360SafeBrowsergetpass?color=success&logo=github) ![GitHub forks](https://img.shields.io/github/forks/hayasec/360SafeBrowsergetpass?color=orange&logo=Furry%20Network&logoColor=white) ![GitHub last commit](https://img.shields.io/github/last-commit/hayasec/360SafeBrowsergetpass?color=ff69b4&label=update&logo=git&logoColor=white)
+
+### Link
+
+https://github.com/hayasec/360SafeBrowsergetpass
+
+### About
+
+一键辅助抓取360安全浏览器密码的CobaltStrike脚本以及解密小工具
+
+![image-20211030135436648](image/image-20211030135436648.png)
+
+
+
+## Sunflower_get_Password【向日葵】
+
+![GitHub top language](https://img.shields.io/github/languages/top/wafinfo/Sunflower_get_Password?color=blue&logo=Ionic&logoColor=white) ![GitHub stars](https://img.shields.io/github/stars/wafinfo/Sunflower_get_Password?color=success&logo=github) ![GitHub forks](https://img.shields.io/github/forks/wafinfo/Sunflower_get_Password?color=orange&logo=Furry%20Network&logoColor=white) ![GitHub last commit](https://img.shields.io/github/last-commit/wafinfo/Sunflower_get_Password?color=ff69b4&label=update&logo=git&logoColor=white)
+
+### Link
+
+https://github.com/wafinfo/Sunflower_get_Password
+
+### About
+
+一款针对向日葵的识别码和验证码提取工具
+
+![image-20211030134736591](image/image-20211030134736591.png)
 
 
 
@@ -1177,25 +1281,6 @@ Proxychains.exe 是一个适用于 Win32(Windows) 和 Cygwin 平台的命令行�
 
 
 
-## Awesome-CobaltStrike【CS Wiki】
-
-![GitHub top language](https://img.shields.io/github/languages/top/zer0yu/Awesome-CobaltStrike?color=blue&logo=Ionic&logoColor=white) ![GitHub stars](https://img.shields.io/github/stars/zer0yu/Awesome-CobaltStrike?color=success&logo=github) ![GitHub forks](https://img.shields.io/github/forks/zer0yu/Awesome-CobaltStrike?color=orange&logo=Furry%20Network&logoColor=white) ![GitHub last commit](https://img.shields.io/github/last-commit/zer0yu/Awesome-CobaltStrike?color=ff69b4&label=update&logo=git&logoColor=white)
-
-### Link
-
-https://github.com/zer0yu/Awesome-CobaltStrike
-
-### About
-
-Cobaltstrike的相关资源汇总 / List of Awesome CobaltStrike Resources
-
-1. The first part is a collection of quality articles about CobaltStrike
-2. The third part is about the integration of the new features BOF resources
-3. This project is to solve the problem of not finding the right aggressor script or BOF when it is needed
-4. If there is quality content that is not covered in this repo, welcome to submit pr
-
-
-
 ## CSAgent【Cobalt Strike】
 
 ![GitHub top language](https://img.shields.io/github/languages/top/Twi1ight/CSAgent?color=blue&logo=Ionic&logoColor=white) ![GitHub stars](https://img.shields.io/github/stars/Twi1ight/CSAgent?color=success&logo=github) ![GitHub forks](https://img.shields.io/github/forks/Twi1ight/CSAgent?color=orange&logo=Furry%20Network&logoColor=white) ![GitHub last commit](https://img.shields.io/github/last-commit/Twi1ight/CSAgent?color=ff69b4&label=update&logo=git&logoColor=white)
@@ -1227,3 +1312,21 @@ https://github.com/lanyi1998/DNSlog-GO
 DNSLog-GO 是一款golang编写的监控 DNS 解析记录的工具，自带WEB界面
 
 ![image-20211010232603419](image/image-20211010232603419.png)
+
+
+
+## ExpDemo-JavaFX【JavaFX】
+
+![GitHub top language](https://img.shields.io/github/languages/top/yhy0/ExpDemo-JavaFX?color=blue&logo=Ionic&logoColor=white) ![GitHub stars](https://img.shields.io/github/stars/yhy0/ExpDemo-JavaFX?color=success&logo=github) ![GitHub forks](https://img.shields.io/github/forks/yhy0/ExpDemo-JavaFX?color=orange&logo=Furry%20Network&logoColor=white) ![GitHub last commit](https://img.shields.io/github/last-commit/yhy0/ExpDemo-JavaFX?color=ff69b4&label=update&logo=git&logoColor=white)
+
+### Link
+
+https://github.com/yhy0/ExpDemo-JavaFX
+
+### About
+
+帮助安全人员快速构建一个图形化的、跨平台的漏洞利用工具。
+
+只需要了解 Java 基本的语法，参考自带的EXP例子，即可快速开发一款**属于你自己**的漏洞利用工具，建立自己的漏洞利用库。
+
+![image-20211029173011863](image/image-20211029173011863.png)
