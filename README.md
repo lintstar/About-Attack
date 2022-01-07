@@ -293,6 +293,8 @@ https://github.com/pmiaowu/HostCollision
 
 ## TheHarvester【邮箱】
 
+![GitHub top language](https://img.shields.io/github/languages/top/laramies/theHarvester?color=blue&logo=Ionic&logoColor=white) ![GitHub stars](https://img.shields.io/github/stars/laramies/theHarvester?color=success&logo=github) ![GitHub forks](https://img.shields.io/github/forks/laramies/theHarvester?color=orange&logo=Furry%20Network&logoColor=white) ![GitHub last commit](https://img.shields.io/github/last-commit/laramies/theHarvester?color=ff69b4&label=update&logo=git&logoColor=white)
+
 ### Link
 
 https://github.com/laramies/theHarvester
