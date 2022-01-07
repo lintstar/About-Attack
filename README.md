@@ -183,6 +183,20 @@ OneForAll是一款功能强大的子域收集工具
 
 ![image-20210826110743236](file:///Users/lintstar/Library/Mobile%20Documents/iCloud~com~gl9~markdowns/Documents/0SEC/image/image-20210826110743236.png?lastModify=1629961528)
 
+## JSINFO-SCAN【JS】
+
+![GitHub top language](https://img.shields.io/github/languages/top/p1g3/JSINFO-SCAN?color=blue&logo=Ionic&logoColor=white) ![GitHub stars](https://img.shields.io/github/stars/p1g3/JSINFO-SCAN?color=success&logo=github) ![GitHub forks](https://img.shields.io/github/forks/p1g3/JSINFO-SCAN?color=orange&logo=Furry%20Network&logoColor=white) ![GitHub last commit](https://img.shields.io/github/last-commit/p1g3/JSINFO-SCAN?color=ff69b4&label=update&logo=git&logoColor=white)
+
+### Link
+
+https://github.com/p1g3/JSINFO-SCAN
+
+### About
+
+一款递归爬取域名 (netloc/domain)，以及递归从 JS 中获取信息的工具
+
+![image-20211220193307179](image/image-20211220193307179.png)
+
 
 
 ## Bscan【指纹】
@@ -259,6 +273,38 @@ Asset discovery and identification tools 快速识别 Web 指纹信息，定位�
 
 
 
+## HostCollision【Host 碰撞】
+
+![GitHub top language](https://img.shields.io/github/languages/top/pmiaowu/HostCollision?color=blue&logo=Ionic&logoColor=white) ![GitHub stars](https://img.shields.io/github/stars/pmiaowu/HostCollision?color=success&logo=github) ![GitHub forks](https://img.shields.io/github/forks/pmiaowu/HostCollision?color=orange&logo=Furry%20Network&logoColor=white) ![GitHub last commit](https://img.shields.io/github/last-commit/pmiaowu/HostCollision?color=ff69b4&label=update&logo=git&logoColor=white)
+
+### Link
+
+https://github.com/pmiaowu/HostCollision
+
+[WEB非实用之host碰撞挖掘](https://www.yuque.com/pmiaowu/bomi9w/tbuaca)
+
+### About
+
+用于host碰撞而生的小工具,专门检测渗透中需要绑定hosts才能访问的主机或内部系统
+
+![image-20211207112125556](image/image-20211207112125556.png)
+
+
+
+## TheHarvester【邮箱】
+
+### Link
+
+https://github.com/laramies/theHarvester
+
+### About
+
+邮箱、子域等开源网络情报收集
+
+![image-20220106201642504](image/image-20220106201642504.png)
+
+
+
 # 0x02 漏洞扫描
 
 ## Xray 🌟【Web】
@@ -332,6 +378,22 @@ Goby是一款新的网络安全测试工具，它能够针对一个目标企业�
 
 
 # 0x03 打点突破
+
+## LiqunKit 🌟【综合】
+
+![GitHub top language](https://img.shields.io/github/languages/top/Liqunkit/LiqunKit_?color=blue&logo=Ionic&logoColor=white) ![GitHub stars](https://img.shields.io/github/stars/Liqunkit/LiqunKit_?color=success&logo=github) ![GitHub forks](https://img.shields.io/github/forks/Liqunkit/LiqunKit_?color=orange&logo=Furry%20Network&logoColor=white) ![GitHub last commit](https://img.shields.io/github/last-commit/Liqunkit/LiqunKit_?color=ff69b4&label=update&logo=git&logoColor=white)
+
+### Link
+
+https://github.com/Liqunkit/LiqunKit_
+
+### About
+
+漏洞辅助工具箱
+
+![image-20220106200050422](image/image-20220106200050422.png)
+
+
 
 ## Ysomap 🌟【ysoserial】
 
@@ -877,7 +939,7 @@ https://github.com/L-codes/Neo-reGeorg
 
 ### Link
 
-https://github.com/nccgroup/ABPTTS.git
+https://github.com/nccgroup/ABPTTS
 
 [内网渗透--突破安全策略上线CS](https://xz.aliyun.com/t/10410)
 
@@ -997,6 +1059,22 @@ https://github.com/P1-Team/AlliN
 
 
 
+## Scaninfo【综合】
+
+![GitHub top language](https://img.shields.io/github/languages/top/redtoolskobe/scaninfo?color=blue&logo=Ionic&logoColor=white) ![GitHub stars](https://img.shields.io/github/stars/redtoolskobe/scaninfo?color=success&logo=github) ![GitHub forks](https://img.shields.io/github/forks/redtoolskobe/scaninfo?color=orange&logo=Furry%20Network&logoColor=white) ![GitHub last commit](https://img.shields.io/github/last-commit/redtoolskobe/scaninfo?color=ff69b4&label=update&logo=git&logoColor=white)
+
+### Link
+
+https://github.com/redtoolskobe/scaninfo
+
+### About
+
+开源、轻量、快速、跨平台 的红队内外网打点扫描器
+
+![image-20211221171915310](image/image-20211221171915310.png)
+
+
+
 ## ServerScan【端口/服务】
 
 ![GitHub top language](https://img.shields.io/github/languages/top/Adminisme/ServerScan?color=blue&logo=Ionic&logoColor=white) ![GitHub stars](https://img.shields.io/github/stars/Adminisme/ServerScan?color=success&logo=github) ![GitHub forks](https://img.shields.io/github/forks/Adminisme/ServerScan?color=orange&logo=Furry%20Network&logoColor=white) ![GitHub last commit](https://img.shields.io/github/last-commit/Adminisme/ServerScan?color=ff69b4&label=update&logo=git&logoColor=white)
@@ -1012,6 +1090,22 @@ https://github.com/Adminisme/ServerScan
 **支持扫描结果回显至 CobaltStrike**
 
 ![image-20210826150201445](image/image-20210826150201445.png)
+
+
+
+## Netspy 🌟【存活网段】
+
+![GitHub top language](https://img.shields.io/github/languages/top/shmilylty/netspy?color=blue&logo=Ionic&logoColor=white) ![GitHub stars](https://img.shields.io/github/stars/shmilylty/netspy?color=success&logo=github) ![GitHub forks](https://img.shields.io/github/forks/shmilylty/netspy?color=orange&logo=Furry%20Network&logoColor=white) ![GitHub last commit](https://img.shields.io/github/last-commit/shmilylty/netspy?color=ff69b4&label=update&logo=git&logoColor=white)
+
+### Link
+
+https://github.com/shmilylty/netspy
+
+### About
+
+一款快速探测内网可达网段工具
+
+![image-20220104110331449](image/image-20220104110331449.png)
 
 
 
@@ -1131,7 +1225,89 @@ https://github.com/wafinfo/Sunflower_get_Password
 
 
 
-# 0x08 基础设施
+# 0x08 横向移动
+
+## Impacket 🌟【综合】
+
+![GitHub top language](https://img.shields.io/github/languages/top/SecureAuthCorp/impacket?color=blue&logo=Ionic&logoColor=white) ![GitHub stars](https://img.shields.io/github/stars/SecureAuthCorp/impacket?color=success&logo=github) ![GitHub forks](https://img.shields.io/github/forks/SecureAuthCorp/impacket?color=orange&logo=Furry%20Network&logoColor=white) ![GitHub last commit](https://img.shields.io/github/last-commit/SecureAuthCorp/impacket?color=ff69b4&label=update&logo=git&logoColor=white)
+
+### Link
+
+https://github.com/SecureAuthCorp/impacket
+
+### About
+
+Impacket 是用于处理网络协议的 Python 类的集合
+
+![image-20220107113153375](image/image-20220107113153375.png)
+
+
+
+## CheeseTools【综合】
+
+![GitHub top language](https://img.shields.io/github/languages/top/klezVirus/CheeseTools?color=blue&logo=Ionic&logoColor=white) ![GitHub stars](https://img.shields.io/github/stars/klezVirus/CheeseTools?color=success&logo=github) ![GitHub forks](https://img.shields.io/github/forks/klezVirus/CheeseTools?color=orange&logo=Furry%20Network&logoColor=white) ![GitHub last commit](https://img.shields.io/github/last-commit/klezVirus/CheeseTools?color=ff69b4&label=update&logo=git&logoColor=white)
+
+### Link
+
+https://github.com/klezVirus/CheeseTools
+
+### About
+
+用于横向移动 / 代码执行的工具
+
+![image-20220107144931308](image/image-20220107144931308.png)
+
+
+
+
+
+## CrackMapExec 🌟【Exec】
+
+![GitHub top language](https://img.shields.io/github/languages/top/byt3bl33d3r/CrackMapExec?color=blue&logo=Ionic&logoColor=white) ![GitHub stars](https://img.shields.io/github/stars/byt3bl33d3r/CrackMapExec?color=success&logo=github) ![GitHub forks](https://img.shields.io/github/forks/byt3bl33d3r/CrackMapExec?color=orange&logo=Furry%20Network&logoColor=white) ![GitHub last commit](https://img.shields.io/github/last-commit/byt3bl33d3r/CrackMapExec?color=ff69b4&label=update&logo=git&logoColor=white)
+
+### Link
+
+https://github.com/byt3bl33d3r/CrackMapExec
+
+### About
+
+横向移动中的瑞士军刀
+
+![image-20220106202647098](image/image-20220106202647098.png)
+
+
+
+## WMIHACKER【Exec】
+
+![GitHub top language](https://img.shields.io/github/languages/top/rootclay/WMIHACKER?color=blue&logo=Ionic&logoColor=white) ![GitHub stars](https://img.shields.io/github/stars/rootclay/WMIHACKER?color=success&logo=github) ![GitHub forks](https://img.shields.io/github/forks/rootclay/WMIHACKER?color=orange&logo=Furry%20Network&logoColor=white) ![GitHub last commit](https://img.shields.io/github/last-commit/rootclay/WMIHACKER?color=ff69b4&label=update&logo=git&logoColor=white)
+
+### Link
+
+https://github.com/rootclay/WMIHACKER
+
+### About
+
+横向移动命令执行测试工具 (无需445端口)
+
+![image-20220107150936281](image/image-20220107150936281.png)
+
+
+
+## Kerbrute【Domain】
+
+![GitHub top language](https://img.shields.io/github/languages/top/ropnop/kerbrute?color=blue&logo=Ionic&logoColor=white) ![GitHub stars](https://img.shields.io/github/stars/ropnop/kerbrute?color=success&logo=github) ![GitHub forks](https://img.shields.io/github/forks/ropnop/kerbrute?color=orange&logo=Furry%20Network&logoColor=white) ![GitHub last commit](https://img.shields.io/github/last-commit/ropnop/kerbrute?color=ff69b4&label=update&logo=git&logoColor=white)
+
+### Link
+
+https://github.com/ropnop/kerbrute
+
+### About
+
+通过 Kerberos 协议爆破 Active Directory 账户
+
+![image-20220107174015434](image/image-20220107174015434.png)
+
+# 0x09 基础设施
 
 ## F8X 🌟【环境部署】
 
@@ -1148,6 +1324,38 @@ https://github.com/ffffffff0x/f8x
 **用于在 VPS 上快速部署红 / 蓝队设施所需要的各类服务**
 
 ![image-20210827164028620](image/image-20210827164028620.png)
+
+## Conote-community 🌟【Platform】
+
+![GitHub top language](https://img.shields.io/github/languages/top/phith0n/conote-community?color=blue&logo=Ionic&logoColor=white) ![GitHub stars](https://img.shields.io/github/stars/phith0n/conote-community?color=success&logo=github) ![GitHub forks](https://img.shields.io/github/forks/phith0n/conote-community?color=orange&logo=Furry%20Network&logoColor=white) ![GitHub last commit](https://img.shields.io/github/last-commit/phith0n/conote-community?color=ff69b4&label=update&logo=git&logoColor=white)
+
+### Link
+
+https://github.com/phith0n/conote-community
+
+[CoNote使用文档](https://phithon.gitbooks.io/conote/content/)
+
+### About
+
+CoNote 综合安全测试平台（社区版）
+
+![25](image/25.png)
+
+
+
+## Yakit【Platform】
+
+![GitHub top language](https://img.shields.io/github/languages/top/yaklang/yakit?color=blue&logo=Ionic&logoColor=white) ![GitHub stars](https://img.shields.io/github/stars/yaklang/yakit?color=success&logo=github) ![GitHub forks](https://img.shields.io/github/forks/yaklang/yakit?color=orange&logo=Furry%20Network&logoColor=white) ![GitHub last commit](https://img.shields.io/github/last-commit/yaklang/yakit?color=ff69b4&label=update&logo=git&logoColor=white)
+
+### Link
+
+https://github.com/yaklang/yakit
+
+### About
+
+Burpsuite 的年轻中国挑战者
+
+![image-20220107174620532](image/image-20220107174620532.png)
 
 
 
@@ -1197,6 +1405,20 @@ https://github.com/r0eXpeR/redteam_vul
 
 ![image-20210828121358105](image/image-20210828121358105.png)
 
+## Supplier【wiki】
+
+![GitHub stars](https://img.shields.io/github/stars/r0eXpeR/supplier?color=success&logo=github) ![GitHub forks](https://img.shields.io/github/forks/r0eXpeR/supplier?color=orange&logo=Furry%20Network&logoColor=white) ![GitHub last commit](https://img.shields.io/github/last-commit/r0eXpeR/supplier?color=ff69b4&label=update&logo=git&logoColor=white)
+
+### Link
+
+https://github.com/r0eXpeR/supplier
+
+### About
+
+主流供应商的一些攻击性漏洞汇总
+
+![image-20211119143047259](image/image-20211119143047259.png)
+
 
 
 ## Awesome CobaltStrike【Wiki】
@@ -1231,7 +1453,23 @@ https://github.com/Mr-xn/BurpSuite-collections
 
 
 
-## PeiQi-WIKI-POC  🌟【Poc】
+## Intranet_Penetration_Tips【Wiki】
+
+![GitHub stars](https://img.shields.io/github/stars/Ridter/Intranet_Penetration_Tips?color=success&logo=github) ![GitHub forks](https://img.shields.io/github/forks/Ridter/Intranet_Penetration_Tips?color=orange&logo=Furry%20Network&logoColor=white) ![GitHub last commit](https://img.shields.io/github/last-commit/Ridter/Intranet_Penetration_Tips?color=ff69b4&label=update&logo=git&logoColor=white)
+
+### Link
+
+https://github.com/Ridter/Intranet_Penetration_Tips
+
+### About
+
+内网渗透 Tips
+
+![image-20211221172752464](image/image-20211221172752464.png)
+
+
+
+## PeiQi-WIKI-POC【Poc】
 
 ![GitHub top language](https://img.shields.io/github/languages/top/PeiQi0/PeiQi-WIKI-POC?color=blue&logo=Ionic&logoColor=white) ![GitHub stars](https://img.shields.io/github/stars/PeiQi0/PeiQi-WIKI-POC?color=success&logo=github) ![GitHub forks](https://img.shields.io/github/forks/PeiQi0/PeiQi-WIKI-POC?color=orange&logo=Furry%20Network&logoColor=white) ![GitHub last commit](https://img.shields.io/github/last-commit/PeiQi0/PeiQi-WIKI-POC?color=ff69b4&label=update&logo=git&logoColor=white)
 
